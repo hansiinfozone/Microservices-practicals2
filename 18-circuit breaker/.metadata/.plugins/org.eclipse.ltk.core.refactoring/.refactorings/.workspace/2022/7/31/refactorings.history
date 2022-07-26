@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;rent-service/src/main/java/lk/codelabs/rentcloud/rentservice/histrix/RentController.java&apos;" deleteContents="false" description="Delete resource &apos;rent-service/src/main/java/lk/codelabs/rentcloud/rentservice/histrix/RentController.java&apos;" element1="/rent-service/src/main/java/lk/codelabs/rentcloud/rentservice/histrix/RentController.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1658859907251"/>
+</session>

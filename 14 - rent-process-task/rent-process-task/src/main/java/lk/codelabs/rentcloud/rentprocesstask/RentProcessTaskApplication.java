@@ -1,0 +1,13 @@
+package lk.codelabs.rentcloud.rentprocesstask;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RentProcessTaskApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RentProcessTaskApplication.class, args);
+	}
+
+}

@@ -1,0 +1,585 @@
+2022-07-26 10:48:46,002 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-26 10:49:17,339 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lk.codelabs.rentcloud:rent-process-task:0.0.1-SNAPSHOT @ D:\projects\14 - rent-process-task\rent-process-task\pom.xml.
+2022-07-26 10:49:18,694 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-task/2.4.3/spring-cloud-starter-task-2.4.3.pom
+2022-07-26 10:49:19,108 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-task/2.4.3/spring-cloud-starter-task-2.4.3.pom
+2022-07-26 10:49:19,303 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-parent/2.4.3/spring-cloud-task-parent-2.4.3.pom
+2022-07-26 10:49:19,515 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-parent/2.4.3/spring-cloud-task-parent-2.4.3.pom
+2022-07-26 10:49:19,712 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-dependencies/2.7.4/spring-cloud-deployer-dependencies-2.7.4.pom
+2022-07-26 10:49:19,991 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-dependencies/2.7.4/spring-cloud-deployer-dependencies-2.7.4.pom
+2022-07-26 10:49:20,246 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dataflow-dependencies-parent/2.9.4/spring-cloud-dataflow-dependencies-parent-2.9.4.pom
+2022-07-26 10:49:20,557 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dataflow-dependencies-parent/2.9.4/spring-cloud-dataflow-dependencies-parent-2.9.4.pom
+2022-07-26 10:49:20,880 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-core/2.4.3/spring-cloud-task-core-2.4.3.pom
+2022-07-26 10:49:21,183 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-core/2.4.3/spring-cloud-task-core-2.4.3.pom
+2022-07-26 10:49:21,352 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-autoconfigure/2.7.4/spring-cloud-deployer-autoconfigure-2.7.4.pom
+2022-07-26 10:49:21,540 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-autoconfigure/2.7.4/spring-cloud-deployer-autoconfigure-2.7.4.pom
+2022-07-26 10:49:21,726 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-parent/2.7.4/spring-cloud-deployer-parent-2.7.4.pom
+2022-07-26 10:49:21,999 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-parent/2.7.4/spring-cloud-deployer-parent-2.7.4.pom
+2022-07-26 10:49:22,266 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dataflow-build/2.9.4/spring-cloud-dataflow-build-2.9.4.pom
+2022-07-26 10:49:22,500 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dataflow-build/2.9.4/spring-cloud-dataflow-build-2.9.4.pom
+2022-07-26 10:49:22,677 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.5.12/spring-boot-dependencies-2.5.12.pom
+2022-07-26 10:49:23,121 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.5.12/spring-boot-dependencies-2.5.12.pom
+2022-07-26 10:49:24,681 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/com/datastax/oss/java-driver-bom/4.11.3/java-driver-bom-4.11.3.pom
+2022-07-26 10:49:25,871 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/com/datastax/oss/java-driver-bom/4.11.3/java-driver-bom-4.11.3.pom
+2022-07-26 10:49:27,322 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/datastax/oss/java-driver-bom/4.11.3/java-driver-bom-4.11.3.pom
+2022-07-26 10:49:27,497 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/datastax/oss/java-driver-bom/4.11.3/java-driver-bom-4.11.3.pom
+2022-07-26 10:49:27,672 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/datastax/oss/java-driver-bom/4.11.3/java-driver-bom-4.11.3.pom
+2022-07-26 10:49:28,070 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/dropwizard/metrics/metrics-bom/4.1.31/metrics-bom-4.1.31.pom
+2022-07-26 10:49:28,368 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/dropwizard/metrics/metrics-bom/4.1.31/metrics-bom-4.1.31.pom
+2022-07-26 10:49:28,700 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/dropwizard/metrics/metrics-bom/4.1.31/metrics-bom-4.1.31.pom
+2022-07-26 10:49:28,968 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.31/metrics-bom-4.1.31.pom
+2022-07-26 10:49:29,256 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.31/metrics-bom-4.1.31.pom
+2022-07-26 10:49:29,587 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/dropwizard/metrics/metrics-parent/4.1.31/metrics-parent-4.1.31.pom
+2022-07-26 10:49:29,890 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/dropwizard/metrics/metrics-parent/4.1.31/metrics-parent-4.1.31.pom
+2022-07-26 10:49:30,181 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/dropwizard/metrics/metrics-parent/4.1.31/metrics-parent-4.1.31.pom
+2022-07-26 10:49:30,393 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.1.31/metrics-parent-4.1.31.pom
+2022-07-26 10:49:30,588 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.1.31/metrics-parent-4.1.31.pom
+2022-07-26 10:49:30,932 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/com/fasterxml/jackson/jackson-bom/2.12.6.20220326/jackson-bom-2.12.6.20220326.pom
+2022-07-26 10:49:31,255 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/com/fasterxml/jackson/jackson-bom/2.12.6.20220326/jackson-bom-2.12.6.20220326.pom
+2022-07-26 10:49:31,574 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/fasterxml/jackson/jackson-bom/2.12.6.20220326/jackson-bom-2.12.6.20220326.pom
+2022-07-26 10:49:31,765 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.12.6.20220326/jackson-bom-2.12.6.20220326.pom
+2022-07-26 10:49:31,948 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.12.6.20220326/jackson-bom-2.12.6.20220326.pom
+2022-07-26 10:49:32,252 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+2022-07-26 10:49:32,550 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+2022-07-26 10:49:32,868 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+2022-07-26 10:49:33,036 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+2022-07-26 10:49:33,221 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+2022-07-26 10:49:33,531 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/com/fasterxml/oss-parent/41/oss-parent-41.pom
+2022-07-26 10:49:33,827 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/com/fasterxml/oss-parent/41/oss-parent-41.pom
+2022-07-26 10:49:34,125 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/fasterxml/oss-parent/41/oss-parent-41.pom
+2022-07-26 10:49:34,304 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/41/oss-parent-41.pom
+2022-07-26 10:49:34,470 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/41/oss-parent-41.pom
+2022-07-26 10:49:34,781 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/glassfish/jersey/jersey-bom/2.33/jersey-bom-2.33.pom
+2022-07-26 10:49:35,077 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/glassfish/jersey/jersey-bom/2.33/jersey-bom-2.33.pom
+2022-07-26 10:49:35,375 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/glassfish/jersey/jersey-bom/2.33/jersey-bom-2.33.pom
+2022-07-26 10:49:35,582 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.33/jersey-bom-2.33.pom
+2022-07-26 10:49:35,786 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.33/jersey-bom-2.33.pom
+2022-07-26 10:49:36,120 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/eclipse/jetty/jetty-bom/9.4.45.v20220203/jetty-bom-9.4.45.v20220203.pom
+2022-07-26 10:49:36,425 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/eclipse/jetty/jetty-bom/9.4.45.v20220203/jetty-bom-9.4.45.v20220203.pom
+2022-07-26 10:49:36,722 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/eclipse/jetty/jetty-bom/9.4.45.v20220203/jetty-bom-9.4.45.v20220203.pom
+2022-07-26 10:49:36,907 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.45.v20220203/jetty-bom-9.4.45.v20220203.pom
+2022-07-26 10:49:37,080 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.45.v20220203/jetty-bom-9.4.45.v20220203.pom
+2022-07-26 10:49:37,367 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom
+2022-07-26 10:49:37,690 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom
+2022-07-26 10:49:38,022 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom
+2022-07-26 10:49:38,180 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom
+2022-07-26 10:49:38,359 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom
+2022-07-26 10:49:38,691 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/jetbrains/kotlin/kotlin-bom/1.5.32/kotlin-bom-1.5.32.pom
+2022-07-26 10:49:39,010 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/jetbrains/kotlin/kotlin-bom/1.5.32/kotlin-bom-1.5.32.pom
+2022-07-26 10:49:39,302 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/jetbrains/kotlin/kotlin-bom/1.5.32/kotlin-bom-1.5.32.pom
+2022-07-26 10:49:39,480 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.5.32/kotlin-bom-1.5.32.pom
+2022-07-26 10:49:39,655 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.5.32/kotlin-bom-1.5.32.pom
+2022-07-26 10:49:39,946 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/micrometer/micrometer-bom/1.7.10/micrometer-bom-1.7.10.pom
+2022-07-26 10:49:40,270 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/micrometer/micrometer-bom/1.7.10/micrometer-bom-1.7.10.pom
+2022-07-26 10:49:40,585 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/io/micrometer/micrometer-bom/1.7.10/micrometer-bom-1.7.10.pom
+2022-07-26 10:49:41,202 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/micrometer/micrometer-bom/1.7.10/micrometer-bom-1.7.10.pom
+2022-07-26 10:49:41,592 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/netty/netty-bom/4.1.75.Final/netty-bom-4.1.75.Final.pom
+2022-07-26 10:49:41,910 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/netty/netty-bom/4.1.75.Final/netty-bom-4.1.75.Final.pom
+2022-07-26 10:49:42,201 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/netty/netty-bom/4.1.75.Final/netty-bom-4.1.75.Final.pom
+2022-07-26 10:49:42,391 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.75.Final/netty-bom-4.1.75.Final.pom
+2022-07-26 10:49:42,574 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.75.Final/netty-bom-4.1.75.Final.pom
+2022-07-26 10:49:42,961 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/com/oracle/database/jdbc/ojdbc-bom/21.1.0.0/ojdbc-bom-21.1.0.0.pom
+2022-07-26 10:49:43,270 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/com/oracle/database/jdbc/ojdbc-bom/21.1.0.0/ojdbc-bom-21.1.0.0.pom
+2022-07-26 10:49:43,565 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/oracle/database/jdbc/ojdbc-bom/21.1.0.0/ojdbc-bom-21.1.0.0.pom
+2022-07-26 10:49:43,759 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/21.1.0.0/ojdbc-bom-21.1.0.0.pom
+2022-07-26 10:49:43,938 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/21.1.0.0/ojdbc-bom-21.1.0.0.pom
+2022-07-26 10:49:44,255 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/prometheus/simpleclient_bom/0.10.0/simpleclient_bom-0.10.0.pom
+2022-07-26 10:49:44,577 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/prometheus/simpleclient_bom/0.10.0/simpleclient_bom-0.10.0.pom
+2022-07-26 10:49:44,885 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/prometheus/simpleclient_bom/0.10.0/simpleclient_bom-0.10.0.pom
+2022-07-26 10:49:45,071 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/simpleclient_bom/0.10.0/simpleclient_bom-0.10.0.pom
+2022-07-26 10:49:45,238 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/simpleclient_bom/0.10.0/simpleclient_bom-0.10.0.pom
+2022-07-26 10:49:45,548 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/prometheus/parent/0.10.0/parent-0.10.0.pom
+2022-07-26 10:49:45,849 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/prometheus/parent/0.10.0/parent-0.10.0.pom
+2022-07-26 10:49:46,149 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/prometheus/parent/0.10.0/parent-0.10.0.pom
+2022-07-26 10:49:46,317 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/prometheus/parent/0.10.0/parent-0.10.0.pom
+2022-07-26 10:49:46,488 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/prometheus/parent/0.10.0/parent-0.10.0.pom
+2022-07-26 10:49:46,825 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/projectreactor/reactor-bom/2020.0.17/reactor-bom-2020.0.17.pom
+2022-07-26 10:49:47,131 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/projectreactor/reactor-bom/2020.0.17/reactor-bom-2020.0.17.pom
+2022-07-26 10:49:47,427 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/io/projectreactor/reactor-bom/2020.0.17/reactor-bom-2020.0.17.pom
+2022-07-26 10:49:47,749 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/projectreactor/reactor-bom/2020.0.17/reactor-bom-2020.0.17.pom
+2022-07-26 10:49:48,055 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/rsocket/rsocket-bom/1.1.1/rsocket-bom-1.1.1.pom
+2022-07-26 10:49:48,379 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/rsocket/rsocket-bom/1.1.1/rsocket-bom-1.1.1.pom
+2022-07-26 10:49:48,671 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/rsocket/rsocket-bom/1.1.1/rsocket-bom-1.1.1.pom
+2022-07-26 10:49:48,832 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.1.1/rsocket-bom-1.1.1.pom
+2022-07-26 10:49:49,033 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.1.1/rsocket-bom-1.1.1.pom
+2022-07-26 10:49:49,335 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/data/spring-data-bom/2021.0.10/spring-data-bom-2021.0.10.pom
+2022-07-26 10:49:49,627 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/data/spring-data-bom/2021.0.10/spring-data-bom-2021.0.10.pom
+2022-07-26 10:49:49,956 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/data/spring-data-bom/2021.0.10/spring-data-bom-2021.0.10.pom
+2022-07-26 10:49:50,269 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/data/spring-data-bom/2021.0.10/spring-data-bom-2021.0.10.pom
+2022-07-26 10:49:50,570 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/spring-framework-bom/5.3.18/spring-framework-bom-5.3.18.pom
+2022-07-26 10:49:50,887 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/spring-framework-bom/5.3.18/spring-framework-bom-5.3.18.pom
+2022-07-26 10:49:51,182 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/spring-framework-bom/5.3.18/spring-framework-bom-5.3.18.pom
+2022-07-26 10:49:51,509 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/spring-framework-bom/5.3.18/spring-framework-bom-5.3.18.pom
+2022-07-26 10:49:51,811 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/integration/spring-integration-bom/5.5.10/spring-integration-bom-5.5.10.pom
+2022-07-26 10:49:52,116 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/integration/spring-integration-bom/5.5.10/spring-integration-bom-5.5.10.pom
+2022-07-26 10:49:52,441 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/integration/spring-integration-bom/5.5.10/spring-integration-bom-5.5.10.pom
+2022-07-26 10:49:53,028 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/integration/spring-integration-bom/5.5.10/spring-integration-bom-5.5.10.pom
+2022-07-26 10:49:53,332 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/security/spring-security-bom/5.5.5/spring-security-bom-5.5.5.pom
+2022-07-26 10:49:53,647 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/security/spring-security-bom/5.5.5/spring-security-bom-5.5.5.pom
+2022-07-26 10:49:53,947 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/security/spring-security-bom/5.5.5/spring-security-bom-5.5.5.pom
+2022-07-26 10:49:54,270 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/security/spring-security-bom/5.5.5/spring-security-bom-5.5.5.pom
+2022-07-26 10:49:54,590 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/session/spring-session-bom/2021.0.5/spring-session-bom-2021.0.5.pom
+2022-07-26 10:49:54,892 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/session/spring-session-bom/2021.0.5/spring-session-bom-2021.0.5.pom
+2022-07-26 10:49:55,201 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/session/spring-session-bom/2021.0.5/spring-session-bom-2021.0.5.pom
+2022-07-26 10:49:55,508 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/session/spring-session-bom/2021.0.5/spring-session-bom-2021.0.5.pom
+2022-07-26 10:49:55,685 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dataflow-build-dependencies/2.9.4/spring-cloud-dataflow-build-dependencies-2.9.4.pom
+2022-07-26 10:49:55,860 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dataflow-build-dependencies/2.9.4/spring-cloud-dataflow-build-dependencies-2.9.4.pom
+2022-07-26 10:49:56,170 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-dependencies/2020.0.5/spring-cloud-dependencies-2020.0.5.pom
+2022-07-26 10:49:56,467 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-dependencies/2020.0.5/spring-cloud-dependencies-2020.0.5.pom
+2022-07-26 10:49:56,772 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-dependencies/2020.0.5/spring-cloud-dependencies-2020.0.5.pom
+2022-07-26 10:49:57,369 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-dependencies/2020.0.5/spring-cloud-dependencies-2020.0.5.pom
+2022-07-26 10:49:57,670 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.5/spring-cloud-dependencies-parent-3.0.5.pom
+2022-07-26 10:49:57,961 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.5/spring-cloud-dependencies-parent-3.0.5.pom
+2022-07-26 10:49:58,267 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.5/spring-cloud-dependencies-parent-3.0.5.pom
+2022-07-26 10:49:58,847 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.5/spring-cloud-dependencies-parent-3.0.5.pom
+2022-07-26 10:49:59,165 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-commons-dependencies/3.0.5/spring-cloud-commons-dependencies-3.0.5.pom
+2022-07-26 10:49:59,490 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-commons-dependencies/3.0.5/spring-cloud-commons-dependencies-3.0.5.pom
+2022-07-26 10:49:59,787 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-commons-dependencies/3.0.5/spring-cloud-commons-dependencies-3.0.5.pom
+2022-07-26 10:50:00,349 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-commons-dependencies/3.0.5/spring-cloud-commons-dependencies-3.0.5.pom
+2022-07-26 10:50:00,652 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-netflix-dependencies/3.0.5/spring-cloud-netflix-dependencies-3.0.5.pom
+2022-07-26 10:50:00,971 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-netflix-dependencies/3.0.5/spring-cloud-netflix-dependencies-3.0.5.pom
+2022-07-26 10:50:01,296 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-netflix-dependencies/3.0.5/spring-cloud-netflix-dependencies-3.0.5.pom
+2022-07-26 10:50:01,909 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-netflix-dependencies/3.0.5/spring-cloud-netflix-dependencies-3.0.5.pom
+2022-07-26 10:50:02,210 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-stream-dependencies/3.1.6/spring-cloud-stream-dependencies-3.1.6.pom
+2022-07-26 10:50:02,510 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-stream-dependencies/3.1.6/spring-cloud-stream-dependencies-3.1.6.pom
+2022-07-26 10:50:02,807 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-stream-dependencies/3.1.6/spring-cloud-stream-dependencies-3.1.6.pom
+2022-07-26 10:50:03,112 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-stream-dependencies/3.1.6/spring-cloud-stream-dependencies-3.1.6.pom
+2022-07-26 10:50:03,412 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-task-dependencies/2.3.5/spring-cloud-task-dependencies-2.3.5.pom
+2022-07-26 10:50:03,726 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-task-dependencies/2.3.5/spring-cloud-task-dependencies-2.3.5.pom
+2022-07-26 10:50:04,036 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-task-dependencies/2.3.5/spring-cloud-task-dependencies-2.3.5.pom
+2022-07-26 10:50:04,341 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-task-dependencies/2.3.5/spring-cloud-task-dependencies-2.3.5.pom
+2022-07-26 10:50:04,656 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-circuitbreaker-dependencies/2.0.2/spring-cloud-circuitbreaker-dependencies-2.0.2.pom
+2022-07-26 10:50:04,960 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-circuitbreaker-dependencies/2.0.2/spring-cloud-circuitbreaker-dependencies-2.0.2.pom
+2022-07-26 10:50:05,266 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-circuitbreaker-dependencies/2.0.2/spring-cloud-circuitbreaker-dependencies-2.0.2.pom
+2022-07-26 10:50:05,850 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-circuitbreaker-dependencies/2.0.2/spring-cloud-circuitbreaker-dependencies-2.0.2.pom
+2022-07-26 10:50:06,140 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.3/spring-cloud-dependencies-parent-3.0.3.pom
+2022-07-26 10:50:06,449 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.3/spring-cloud-dependencies-parent-3.0.3.pom
+2022-07-26 10:50:06,765 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.3/spring-cloud-dependencies-parent-3.0.3.pom
+2022-07-26 10:50:07,348 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.3/spring-cloud-dependencies-parent-3.0.3.pom
+2022-07-26 10:50:07,647 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-config-dependencies/3.0.6/spring-cloud-config-dependencies-3.0.6.pom
+2022-07-26 10:50:07,971 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-config-dependencies/3.0.6/spring-cloud-config-dependencies-3.0.6.pom
+2022-07-26 10:50:08,301 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-config-dependencies/3.0.6/spring-cloud-config-dependencies-3.0.6.pom
+2022-07-26 10:50:08,867 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-config-dependencies/3.0.6/spring-cloud-config-dependencies-3.0.6.pom
+2022-07-26 10:50:09,166 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-function-dependencies/3.1.6/spring-cloud-function-dependencies-3.1.6.pom
+2022-07-26 10:50:09,491 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-function-dependencies/3.1.6/spring-cloud-function-dependencies-3.1.6.pom
+2022-07-26 10:50:09,797 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-function-dependencies/3.1.6/spring-cloud-function-dependencies-3.1.6.pom
+2022-07-26 10:50:10,429 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-function-dependencies/3.1.6/spring-cloud-function-dependencies-3.1.6.pom
+2022-07-26 10:50:10,746 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-gateway-dependencies/3.0.6/spring-cloud-gateway-dependencies-3.0.6.pom
+2022-07-26 10:50:11,055 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-gateway-dependencies/3.0.6/spring-cloud-gateway-dependencies-3.0.6.pom
+2022-07-26 10:50:11,360 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-gateway-dependencies/3.0.6/spring-cloud-gateway-dependencies-3.0.6.pom
+2022-07-26 10:50:11,692 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-gateway-dependencies/3.0.6/spring-cloud-gateway-dependencies-3.0.6.pom
+2022-07-26 10:50:11,992 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-consul-dependencies/3.0.4/spring-cloud-consul-dependencies-3.0.4.pom
+2022-07-26 10:50:12,291 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-consul-dependencies/3.0.4/spring-cloud-consul-dependencies-3.0.4.pom
+2022-07-26 10:50:12,621 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-consul-dependencies/3.0.4/spring-cloud-consul-dependencies-3.0.4.pom
+2022-07-26 10:50:13,211 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-consul-dependencies/3.0.4/spring-cloud-consul-dependencies-3.0.4.pom
+2022-07-26 10:50:13,542 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.4/spring-cloud-dependencies-parent-3.0.4.pom
+2022-07-26 10:50:13,877 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.4/spring-cloud-dependencies-parent-3.0.4.pom
+2022-07-26 10:50:14,196 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.4/spring-cloud-dependencies-parent-3.0.4.pom
+2022-07-26 10:50:14,811 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-dependencies-parent/3.0.4/spring-cloud-dependencies-parent-3.0.4.pom
+2022-07-26 10:50:15,106 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-sleuth-dependencies/3.0.5/spring-cloud-sleuth-dependencies-3.0.5.pom
+2022-07-26 10:50:15,440 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-sleuth-dependencies/3.0.5/spring-cloud-sleuth-dependencies-3.0.5.pom
+2022-07-26 10:50:15,742 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-sleuth-dependencies/3.0.5/spring-cloud-sleuth-dependencies-3.0.5.pom
+2022-07-26 10:50:16,331 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-sleuth-dependencies/3.0.5/spring-cloud-sleuth-dependencies-3.0.5.pom
+2022-07-26 10:50:16,635 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/zipkin/brave/brave-bom/5.13.2/brave-bom-5.13.2.pom
+2022-07-26 10:50:16,947 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/zipkin/brave/brave-bom/5.13.2/brave-bom-5.13.2.pom
+2022-07-26 10:50:17,255 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/zipkin/brave/brave-bom/5.13.2/brave-bom-5.13.2.pom
+2022-07-26 10:50:17,444 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-bom/5.13.2/brave-bom-5.13.2.pom
+2022-07-26 10:50:17,615 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-bom/5.13.2/brave-bom-5.13.2.pom
+2022-07-26 10:50:17,909 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/zipkin/reporter2/zipkin-reporter-bom/2.16.1/zipkin-reporter-bom-2.16.1.pom
+2022-07-26 10:50:18,230 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/zipkin/reporter2/zipkin-reporter-bom/2.16.1/zipkin-reporter-bom-2.16.1.pom
+2022-07-26 10:50:18,525 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/zipkin/reporter2/zipkin-reporter-bom/2.16.1/zipkin-reporter-bom-2.16.1.pom
+2022-07-26 10:50:18,715 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter-bom/2.16.1/zipkin-reporter-bom-2.16.1.pom
+2022-07-26 10:50:18,903 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter-bom/2.16.1/zipkin-reporter-bom-2.16.1.pom
+2022-07-26 10:50:19,210 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-vault-dependencies/3.0.5/spring-cloud-vault-dependencies-3.0.5.pom
+2022-07-26 10:50:19,515 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-vault-dependencies/3.0.5/spring-cloud-vault-dependencies-3.0.5.pom
+2022-07-26 10:50:19,826 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-vault-dependencies/3.0.5/spring-cloud-vault-dependencies-3.0.5.pom
+2022-07-26 10:50:20,407 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-vault-dependencies/3.0.5/spring-cloud-vault-dependencies-3.0.5.pom
+2022-07-26 10:50:20,719 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-zookeeper-dependencies/3.0.5/spring-cloud-zookeeper-dependencies-3.0.5.pom
+2022-07-26 10:50:21,030 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-zookeeper-dependencies/3.0.5/spring-cloud-zookeeper-dependencies-3.0.5.pom
+2022-07-26 10:50:21,325 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-zookeeper-dependencies/3.0.5/spring-cloud-zookeeper-dependencies-3.0.5.pom
+2022-07-26 10:50:21,902 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-zookeeper-dependencies/3.0.5/spring-cloud-zookeeper-dependencies-3.0.5.pom
+2022-07-26 10:50:22,200 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/3.0.3/spring-cloud-cloudfoundry-dependencies-3.0.3.pom
+2022-07-26 10:50:22,510 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/3.0.3/spring-cloud-cloudfoundry-dependencies-3.0.3.pom
+2022-07-26 10:50:22,807 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/3.0.3/spring-cloud-cloudfoundry-dependencies-3.0.3.pom
+2022-07-26 10:50:23,133 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/3.0.3/spring-cloud-cloudfoundry-dependencies-3.0.3.pom
+2022-07-26 10:50:23,429 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-bus-dependencies/3.0.3/spring-cloud-bus-dependencies-3.0.3.pom
+2022-07-26 10:50:23,727 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-bus-dependencies/3.0.3/spring-cloud-bus-dependencies-3.0.3.pom
+2022-07-26 10:50:24,026 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-bus-dependencies/3.0.3/spring-cloud-bus-dependencies-3.0.3.pom
+2022-07-26 10:50:24,353 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-bus-dependencies/3.0.3/spring-cloud-bus-dependencies-3.0.3.pom
+2022-07-26 10:50:24,666 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-contract-dependencies/3.0.5/spring-cloud-contract-dependencies-3.0.5.pom
+2022-07-26 10:50:24,967 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-contract-dependencies/3.0.5/spring-cloud-contract-dependencies-3.0.5.pom
+2022-07-26 10:50:25,275 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-contract-dependencies/3.0.5/spring-cloud-contract-dependencies-3.0.5.pom
+2022-07-26 10:50:25,876 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-contract-dependencies/3.0.5/spring-cloud-contract-dependencies-3.0.5.pom
+2022-07-26 10:50:26,199 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-openfeign-dependencies/3.0.6/spring-cloud-openfeign-dependencies-3.0.6.pom
+2022-07-26 10:50:26,515 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-openfeign-dependencies/3.0.6/spring-cloud-openfeign-dependencies-3.0.6.pom
+2022-07-26 10:50:26,816 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-openfeign-dependencies/3.0.6/spring-cloud-openfeign-dependencies-3.0.6.pom
+2022-07-26 10:50:27,170 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-openfeign-dependencies/3.0.6/spring-cloud-openfeign-dependencies-3.0.6.pom
+2022-07-26 10:50:27,502 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/github/openfeign/feign-bom/10.12/feign-bom-10.12.pom
+2022-07-26 10:50:27,922 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/github/openfeign/feign-bom/10.12/feign-bom-10.12.pom
+2022-07-26 10:50:28,217 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/github/openfeign/feign-bom/10.12/feign-bom-10.12.pom
+2022-07-26 10:50:28,387 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/openfeign/feign-bom/10.12/feign-bom-10.12.pom
+2022-07-26 10:50:28,588 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/openfeign/feign-bom/10.12/feign-bom-10.12.pom
+2022-07-26 10:50:28,890 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-kubernetes-dependencies/2.0.5/spring-cloud-kubernetes-dependencies-2.0.5.pom
+2022-07-26 10:50:29,185 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-kubernetes-dependencies/2.0.5/spring-cloud-kubernetes-dependencies-2.0.5.pom
+2022-07-26 10:50:29,515 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/cloud/spring-cloud-kubernetes-dependencies/2.0.5/spring-cloud-kubernetes-dependencies-2.0.5.pom
+2022-07-26 10:50:30,138 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/cloud/spring-cloud-kubernetes-dependencies/2.0.5/spring-cloud-kubernetes-dependencies-2.0.5.pom
+2022-07-26 10:50:30,447 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot-local/io/fabric8/kubernetes-client-bom/4.13.3/kubernetes-client-bom-4.13.3.pom
+2022-07-26 10:50:30,780 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/io/fabric8/kubernetes-client-bom/4.13.3/kubernetes-client-bom-4.13.3.pom
+2022-07-26 10:50:31,085 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/io/fabric8/kubernetes-client-bom/4.13.3/kubernetes-client-bom-4.13.3.pom
+2022-07-26 10:50:31,272 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/4.13.3/kubernetes-client-bom-4.13.3.pom
+2022-07-26 10:50:31,451 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/4.13.3/kubernetes-client-bom-4.13.3.pom
+2022-07-26 10:50:31,622 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-resource-support/2.7.4/spring-cloud-deployer-resource-support-2.7.4.pom
+2022-07-26 10:50:31,819 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-resource-support/2.7.4/spring-cloud-deployer-resource-support-2.7.4.pom
+2022-07-26 10:50:32,018 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/4.3.6/spring-batch-infrastructure-4.3.6.pom
+2022-07-26 10:50:32,203 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/4.3.6/spring-batch-infrastructure-4.3.6.pom
+2022-07-26 10:50:32,401 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3.pom
+2022-07-26 10:50:32,581 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3.pom
+2022-07-26 10:50:32,734 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.29.RELEASE/spring-framework-bom-4.3.29.RELEASE.pom
+2022-07-26 10:50:32,919 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.29.RELEASE/spring-framework-bom-4.3.29.RELEASE.pom
+2022-07-26 10:50:33,093 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-batch/2.4.3/spring-cloud-task-batch-2.4.3.pom
+2022-07-26 10:50:33,270 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-batch/2.4.3/spring-cloud-task-batch-2.4.3.pom
+2022-07-26 10:50:33,453 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-stream/2.4.3/spring-cloud-task-stream-2.4.3.pom
+2022-07-26 10:50:33,620 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-stream/2.4.3/spring-cloud-task-stream-2.4.3.pom
+2022-07-26 10:50:33,791 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-spi/2.7.4/spring-cloud-deployer-spi-2.7.4.pom
+2022-07-26 10:50:33,960 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-spi/2.7.4/spring-cloud-deployer-spi-2.7.4.pom
+2022-07-26 10:50:34,135 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21.pom
+2022-07-26 10:50:34,324 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21.pom
+2022-07-26 10:50:34,496 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.pom
+2022-07-26 10:50:34,670 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.pom
+2022-07-26 10:50:34,934 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-core/2.4.3/spring-cloud-task-core-2.4.3.jar
+2022-07-26 10:50:35,075 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-task/2.4.3/spring-cloud-starter-task-2.4.3.jar
+2022-07-26 10:50:35,083 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-resource-support/2.7.4/spring-cloud-deployer-resource-support-2.7.4.jar
+2022-07-26 10:50:35,104 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-autoconfigure/2.7.4/spring-cloud-deployer-autoconfigure-2.7.4.jar
+2022-07-26 10:50:35,106 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/4.3.6/spring-batch-infrastructure-4.3.6.jar
+2022-07-26 10:50:35,861 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-resource-support/2.7.4/spring-cloud-deployer-resource-support-2.7.4.jar
+2022-07-26 10:50:35,862 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-task/2.4.3/spring-cloud-starter-task-2.4.3.jar
+2022-07-26 10:50:35,863 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-autoconfigure/2.7.4/spring-cloud-deployer-autoconfigure-2.7.4.jar
+2022-07-26 10:50:35,864 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-core/2.4.3/spring-cloud-task-core-2.4.3.jar
+2022-07-26 10:50:36,024 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/4.3.6/spring-batch-infrastructure-4.3.6.jar
+2022-07-26 10:50:36,195 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3.jar
+2022-07-26 10:50:36,313 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-batch/2.4.3/spring-cloud-task-batch-2.4.3.jar
+2022-07-26 10:50:36,351 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-spi/2.7.4/spring-cloud-deployer-spi-2.7.4.jar
+2022-07-26 10:50:36,441 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-stream/2.4.3/spring-cloud-task-stream-2.4.3.jar
+2022-07-26 10:50:36,492 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21.jar
+2022-07-26 10:50:37,126 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3.jar
+2022-07-26 10:50:37,459 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-spi/2.7.4/spring-cloud-deployer-spi-2.7.4.jar
+2022-07-26 10:50:37,624 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-batch/2.4.3/spring-cloud-task-batch-2.4.3.jar
+2022-07-26 10:50:37,624 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-stream/2.4.3/spring-cloud-task-stream-2.4.3.jar
+2022-07-26 10:50:38,238 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
+2022-07-26 10:50:38,881 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
+2022-07-26 10:50:39,072 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21.jar
+2022-07-26 10:50:39,170 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lk.codelabs.rentcloud:rent-process-task:0.0.1-SNAPSHOT @ D:\projects\14 - rent-process-task\rent-process-task\pom.xml.
+2022-07-26 10:50:40,279 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rent-process-task/src/main/java
+2022-07-26 10:50:40,280 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rent-process-task/src/main/resources
+2022-07-26 10:50:40,287 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rent-process-task/src/main/resources
+2022-07-26 10:50:40,297 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rent-process-task/src/test/java
+2022-07-26 10:50:42,092 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 86 sec
+2022-07-26 10:50:42,424 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-task/2.4.3/spring-cloud-starter-task-2.4.3-sources.jar
+2022-07-26 10:50:42,434 [Worker-12: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-task:2.4.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-task:jar:sources:2.4.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.0.v20220512-1935.jar:na]
+2022-07-26 10:50:43,018 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-core/2.4.3/spring-cloud-task-core-2.4.3-sources.jar
+2022-07-26 10:50:43,481 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-core/2.4.3/spring-cloud-task-core-2.4.3-sources.jar
+2022-07-26 10:50:43,485 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-task-core:2.4.3
+2022-07-26 10:50:44,031 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 10:50:44,031 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 10:50:44,036 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-26 10:50:44,059 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 10:50:44,064 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 10:50:44,064 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 10:50:44,064 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 10:50:44,196 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-autoconfigure/2.7.4/spring-cloud-deployer-autoconfigure-2.7.4-sources.jar
+2022-07-26 10:50:44,595 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-autoconfigure/2.7.4/spring-cloud-deployer-autoconfigure-2.7.4-sources.jar
+2022-07-26 10:50:44,598 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-deployer-autoconfigure:2.7.4
+2022-07-26 10:50:45,300 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-resource-support/2.7.4/spring-cloud-deployer-resource-support-2.7.4-sources.jar
+2022-07-26 10:50:45,619 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-resource-support/2.7.4/spring-cloud-deployer-resource-support-2.7.4-sources.jar
+2022-07-26 10:50:45,623 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-deployer-resource-support:2.7.4
+2022-07-26 10:50:46,220 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/4.3.6/spring-batch-infrastructure-4.3.6-sources.jar
+2022-07-26 10:50:47,104 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/batch/spring-batch-infrastructure/4.3.6/spring-batch-infrastructure-4.3.6-sources.jar
+2022-07-26 10:50:47,108 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.batch:spring-batch-infrastructure:4.3.6
+2022-07-26 10:50:47,692 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3-sources.jar
+2022-07-26 10:50:48,158 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3-sources.jar
+2022-07-26 10:50:48,162 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.retry:spring-retry:1.3.3
+2022-07-26 10:50:48,786 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-batch/2.4.3/spring-cloud-task-batch-2.4.3-sources.jar
+2022-07-26 10:50:49,230 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-batch/2.4.3/spring-cloud-task-batch-2.4.3-sources.jar
+2022-07-26 10:50:49,234 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-task-batch:2.4.3
+2022-07-26 10:50:49,917 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-stream/2.4.3/spring-cloud-task-stream-2.4.3-sources.jar
+2022-07-26 10:50:50,283 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-stream/2.4.3/spring-cloud-task-stream-2.4.3-sources.jar
+2022-07-26 10:50:50,286 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-task-stream:2.4.3
+2022-07-26 10:50:50,977 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-spi/2.7.4/spring-cloud-deployer-spi-2.7.4-sources.jar
+2022-07-26 10:50:51,302 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-deployer-spi/2.7.4/spring-cloud-deployer-spi-2.7.4-sources.jar
+2022-07-26 10:50:51,306 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-deployer-spi:2.7.4
+2022-07-26 10:50:51,906 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21-sources.jar
+2022-07-26 10:50:54,503 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21-sources.jar
+2022-07-26 10:50:54,507 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.4.21
+2022-07-26 10:50:55,162 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4-sources.jar
+2022-07-26 10:50:55,484 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4-sources.jar
+2022-07-26 10:50:55,487 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reactivestreams:reactive-streams:1.0.4
+2022-07-26 10:50:55,854 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 10:50:55,854 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 10:50:55,856 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 10:50:55,856 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 10:50:55,859 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 10:50:55,859 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 10:50:55,859 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:30:17,457 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:30:17,457 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:30:17,459 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-26 11:30:17,462 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:30:17,465 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:30:17,465 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:30:17,465 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:31:16,193 [Worker-18: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:579) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:547) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:503) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:303) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:198) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1024) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.100.v20220315-2327.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:254) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:311) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:400) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.100.v20220315-2327.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:403) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:514) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:462) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:544) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.0.v20220512-1935.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\n\t\t<dependency>... @43:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:577) ~[na:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\n\t\t<dependency>... @43:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112) ~[na:na]
+	... 26 common frames omitted
+2022-07-26 11:31:17,429 [Worker-18: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:579) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:547) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:503) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:303) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:198) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1024) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.100.v20220315-2327.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:254) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:311) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:400) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.100.v20220315-2327.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:403) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:514) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:462) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:544) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.0.v20220512-1935.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\n\t\t<dependency>... @43:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:577) ~[na:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\n\t\t<dependency>... @43:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112) ~[na:na]
+	... 26 common frames omitted
+2022-07-26 11:35:24,675 [Worker-18: reload maven project] ERROR o.e.m.c.u.i.actions.SelectionUtil - Can't close stream
+java.nio.file.FileAlreadyExistsException: C:\Users\DELL\AppData\Local\Temp\maven-pom15063171459777078296.pom
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[na:na]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[na:na]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[na:na]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[na:na]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[na:na]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[na:na]
+	at java.base/java.nio.file.Files.copy(Files.java:3161) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:268) ~[org.eclipse.m2e.core.ui_1.19.0.20220206-1032.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:659) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:979) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.0.v20220512-1935.jar:na]
+2022-07-26 11:35:37,024 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lk.codelabs.rentcloud:rent-process-task:0.0.1-SNAPSHOT @ D:\projects\14 - rent-process-task\rent-process-task\pom.xml.
+2022-07-26 11:35:38,945 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:35:38,946 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:35:38,949 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:35:38,949 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:35:38,953 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:35:38,953 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:35:38,953 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:35:40,523 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:35:40,523 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:35:40,527 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:35:40,552 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:35:40,557 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:35:40,557 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:35:40,557 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:35:41,582 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-task/2.4.3/spring-cloud-starter-task-2.4.3-javadoc.jar
+2022-07-26 11:35:41,585 [Worker-20: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-task:2.4.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-task:jar:javadoc:2.4.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.0.v20220512-1935.jar:na]
+2022-07-26 11:36:04,010 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lk.codelabs.rentcloud:rent-process-task:0.0.1-SNAPSHOT @ D:\projects\14 - rent-process-task\rent-process-task\pom.xml.
+2022-07-26 11:36:04,881 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:36:04,881 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:36:04,885 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:36:04,885 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:36:04,891 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:36:04,891 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:36:04,891 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:36:07,394 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:36:07,394 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:36:07,395 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:36:07,416 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:36:07,430 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:36:07,430 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:36:07,432 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:37:34,074 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:37:34,074 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:37:34,074 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:37:34,086 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:37:34,088 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:37:34,088 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:37:34,088 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:37:35,124 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:37:35,124 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:37:35,125 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:37:35,125 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:37:35,128 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:37:35,128 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:37:35,128 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:39:39,079 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:39:39,080 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:39:39,081 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:39:39,096 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:39:39,101 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:39:39,101 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:39:39,102 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:40:31,303 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:40:31,303 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:40:31,304 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:40:31,328 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:40:31,331 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:40:31,332 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:40:31,332 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:41:58,754 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:41:58,754 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:41:58,755 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:41:58,769 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:41:58,771 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:41:58,771 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:41:58,771 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:42:12,929 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:42:12,930 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:42:12,930 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:42:12,940 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:42:12,942 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:42:12,942 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:42:12,942 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:42:19,467 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:42:19,467 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:42:19,468 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:42:19,478 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:42:19,481 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:42:19,481 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:42:19,481 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:42:30,468 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:42:30,468 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:42:30,469 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:42:30,478 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:42:30,480 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:42:30,480 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:42:30,480 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:42:33,111 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:42:33,111 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:42:33,112 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:42:33,124 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:42:33,126 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:42:33,126 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:42:33,126 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:46:51,906 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:46:51,906 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:46:51,906 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:46:51,922 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:46:51,925 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:46:51,925 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:46:51,925 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:46:54,798 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:46:54,798 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:46:54,799 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:46:54,813 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:46:54,816 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:46:54,816 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:46:54,816 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:53:11,663 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:53:11,663 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:53:11,664 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:53:11,679 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:53:11,681 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:53:11,682 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:53:11,682 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 11:53:20,071 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:53:20,071 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:53:20,072 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-26 11:53:20,088 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 11:53:20,090 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 11:53:20,090 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 11:53:20,090 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources
+2022-07-26 12:02:50,095 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 12:02:50,095 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 12:02:50,095 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 12:02:50,096 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-26 12:02:50,099 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-26 12:02:50,099 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-26 12:02:50,099 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\14 - rent-process-task\rent-process-task\src\test\resources

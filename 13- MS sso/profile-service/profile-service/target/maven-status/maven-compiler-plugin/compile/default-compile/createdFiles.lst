@@ -1,0 +1,5 @@
+com\test\rentcloud\profileservice\repository\CustomerRepository.class
+com\test\rentcloud\profileservice\controller\ProfileController.class
+com\test\rentcloud\profileservice\service\CustomerService.class
+com\test\rentcloud\profileservice\ProfileServiceApplication.class
+com\test\rentcloud\profileservice\serviceImpl\CustomerServiceImpl.class

@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\projects\17-Service Discovery\.metadata\.plugins\org.eclipse.jdt.core
+523961560.index
+1509799344.index
+1865797976.index
+3399468337.index
+1187416185.index

@@ -1,0 +1,11 @@
+package lk.codelabs.rentcloud.rentprocesstask.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class RentProcessServiceImpl {
+
+	public boolean validateDL(String dLNumber) {
+		return dlNumber.length()>5;
+	}
+}
